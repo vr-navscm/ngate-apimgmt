@@ -1,7 +1,4 @@
-<p style="text-align: center;">
-  <img src="./assets/gravitee-logo-dark.svg#gh-light-mode-only" width="400" alt="Gravitee Dark Logo">
-  <img src="./assets/gravitee-logo-white.svg#gh-dark-mode-only" width="400" alt="Gravitee Light Logo">
-</p>
+
 
 <h1 style="text-align: center;">API Management</h1>
 <p style="text-align: center;">Flexible and blazing-fast Open Source API Gateway.</p>
