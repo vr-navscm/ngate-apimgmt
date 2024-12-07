@@ -38,7 +38,7 @@
 
 ## 🪐 Overview
 
-Gravitee.io API Management is a flexible, lightweight, and blazing-fast Open Source solution that helps your organization control who, when, and how users access your APIs.
+NGate API Management is a flexible, lightweight, and blazing-fast Open Source solution that helps your organization control who, when, and how users access your APIs.
 Effortlessly manage the lifecycle of your APIs.
 Download API Management to document, discover, and publish your APIs.
 
